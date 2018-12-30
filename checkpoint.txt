@@ -1,0 +1,2 @@
+weights-improvement-512-1924.hdf5
+1924
